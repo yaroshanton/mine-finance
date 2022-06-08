@@ -1,0 +1,9 @@
+.tickersList {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tickersListItem {
+  margin: 15px 10px;
+  min-width: 60px;
+}
